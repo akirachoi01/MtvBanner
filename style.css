@@ -16,7 +16,7 @@ body {
 }
 
 .glitch {
-  font-size: 3em;
+  font-size: 5em;
   position: relative;
   animation: flicker 2s infinite;
 }
